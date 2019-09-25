@@ -4,7 +4,7 @@ In this project, I worked on spatial data - generated some spatial data, visuali
 
 1. I generated latitude, longitude pairs (ie. spatial coordinates) for 12 locations. I used my phone's built-in compass app to read off the displayed GPS coordinate values at each of the locations.
 
-2. Next, I created a KML file (.kml format, which is XML) and entered the co-ordinates in it for doing visualizations and queries. [Here](./Geospatial-Databases/Assignment3.kml) is the .kml file with co-ordinates and their labels.
+2. Next, I created a KML file (.kml format, which is XML) and entered the co-ordinates in it for doing visualizations and queries. [Here](./csci-585-database-systems/Geospatial-Databases/Assignment3.kml) is the .kml file with co-ordinates and their labels.
 
 3. The data in KML file is visualized by loading it in Google Earth. Following is the result:
 ![points](./Step3.png)
